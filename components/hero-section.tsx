@@ -133,7 +133,7 @@ export function HeroSection() {
         />
 
         {/* Typewriter subtitle */}
-        <TypewriterText text="Grazie per essere rimasta al mio fianco. Io ci sono, e ci sar\u00f2 sempre." />
+        <TypewriterText text="Grazie per essere rimasta al mio fianco. Io ci sono, e ci sarò sempre e èer sempre." />
 
         {/* Intro text */}
         <p
