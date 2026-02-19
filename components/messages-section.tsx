@@ -7,22 +7,22 @@ const messages = [
   {
     icon: Heart,
     title: "Grazie di esserci stata",
-    text: "Ci sono stati momenti in cui tutto sembrava pi\u00f9 pesante del solito, in cui le giornate si facevano difficili e il mondo si restringeva. Tu sei rimasta. Non hai chiesto spiegazioni, non ti sei allontanata. Sei stata l\u00ec, silenziosa e forte, con quella presenza che vale pi\u00f9 di mille parole. E io te ne sar\u00f2 grato per sempre.",
+    text: "Ci sono stati momenti difficili in cui stavo tanto male e tutto sembrava buio e pesante, dove le giornate erano difficili e il mondo si chiudeva intorno a me. Tu mi sei rimasta accanto, non hai fatto come tutte le persone, sei stata lì accanto a me, con quella presenza ceh vale più di mille parole. E io te ne sarò grato per sempre.",
   },
   {
     icon: Ear,
     title: "Voglio ascoltarti davvero",
-    text: "Mi rendo conto che a volte mi sono perso nei miei pensieri, nelle mie difficolt\u00e0, e forse non ti ho dato abbastanza spazio. Adesso voglio fare diversamente. Voglio ascoltarti, sul serio. Sapere come stai, cosa provi, cosa ti preoccupa e cosa ti fa sorridere. Il tuo mondo conta tanto quanto il mio, e voglio entrarci in punta di piedi, con attenzione.",
+    text: "Mi rendo conto che avvolte mi sono perso nei miei pensieri e nelle mie difficoltà, sono stato egoista, e forse non ti ho dato abbastanza spazio e tempo. Adesso però voglio fare le cose diversamente. Voglio ascoltarti sul serio, sapere come stai, cosa provi , cosa ti preoccupa e cosa ti fa sorridere. quello che provi conta tanto quanto quello che provo io, e forse anche di più. Voglio entrare nel tuo mondo con tutto me stesso.",
   },
   {
     icon: HandHeart,
     title: "Non sei sola, mai",
-    text: "Qualunque cosa accada, qualunque giorno venga, sappi che io ci sar\u00f2. Non solo quando va tutto bene, ma soprattutto quando le cose diventano complicate. Nei silenzi, nelle lacrime, nei dubbi. Non devi affrontare nulla da sola. Io sono qui, e qui resto.",
+    text: "qualunque cosa accada, qualunque giorno venga, sappi che io ci sarò. Non solo quando va tutto bene, ma soprattutto quando le cose diventano complicate. Nei silenzi, nelle lacrime, nei dubbi e nelle tristezze. Non devi affrontare le cose da sola, io sono qui con te e per te, e qui resterò.",
   },
   {
     icon: Sun,
-    title: "Il nostro futuro, insieme",
-    text: "Non so cosa ci riserva il domani, ma so con certezza che voglio viverlo con te. Ogni passo, ogni scelta, ogni piccola avventura. Perch\u00e9 quello che abbiamo \u00e8 raro, \u00e8 vero, e vale la pena proteggerlo ogni giorno. Ti amo, e questo non cambier\u00e0.",
+    title: "Il nostro futuro insieme",
+    text: "Non so cosa ci riservi il domani, ma so con certezza che voglio viverlo con te. Ogni passo, ogni scelta, ogni piccola avventura. Perchè quello che abbiamo insieme vale la pena proteggerlo ogni giorno e continuare a coltivarlo. Ti amo, e questo non cambierà mai e poi mai.",
   },
 ]
 
