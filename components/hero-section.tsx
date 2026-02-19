@@ -120,7 +120,7 @@ export function HeroSection() {
         </div>
 
         {/* Animated title */}
-        <AnimatedTitle text="Per te, Claudia❤️‍🩹" />
+        <AnimatedTitle text="Per te, Claudia" />
 
         {/* Decorative gold line */}
         <div
