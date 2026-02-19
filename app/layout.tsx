@@ -15,7 +15,7 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Per te, Claudia',
+  title: 'Per te, Claudia❤️‍🩹',
   description: 'Un messaggio dal cuore, da Gabriele a Claudia.',
 }
 
